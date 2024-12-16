@@ -1,6 +1,7 @@
 # My_Girl_Assistant
 make a assistant using html , css and javascript
-![dark-blue-background-designify](https://github.com/user-attachments/assets/2f97af77-75ba-49b5-bb98-befa8b82cdeb)
+<img width="957" alt="my_girl_22" src="https://github.com/user-attachments/assets/a3267462-2418-4f01-8a94-1fc71737d64e" />
+
 
 
 
